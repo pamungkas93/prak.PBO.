@@ -34,24 +34,24 @@ Contoh link SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Pertanyaan
 
-Soal
-1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!
-2. Apa yang dimaksud dengan object dan apa bedanya dengan class?
-3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
-4. Pada class Sepeda, terdapat state/atribut apa saja?
-5. Tambahkan atribut warna pada class Sepeda.
+Soal<br>
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!<br>
+2. Apa yang dimaksud dengan object dan apa bedanya dengan class?<br>
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!<br>
+4. Pada class Sepeda, terdapat state/atribut apa saja?<br>
+5. Tambahkan atribut warna pada class Sepeda.<br>
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
-Jawaban
-1.  -Kelas kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu. Sebagai contoh 'class of dog'          adalah suatu unit yang terdiri atas definisi-definisi data dan fungsi-fungsi yang menunjuk pada berbagai macam perilaku/turunan          dari anjing. Sebuah class adalah dasar dari modularitas dan struktur dalam pemrograman berorientasi object.
-    -Objek membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari modularitas        dan struktur dalam sebuah program komputer berorientasi objek.
-    -Abstraksi Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti.      Setiap objek dalam sistem melayani sebagai model dari "pelaku" abstrak yang dapat melakukan kerja, laporan dan perubahan                keadaannya, dan berkomunikasi dengan objek lainnya dalam sistem, tanpa mengungkapkan bagaimana kelebihan ini diterapkan.
-    -Enkapsulasi Memastikan pengguna sebuah objek tidak dapat mengganti keadaan dalam dari sebuah objek dengan cara yang tidak layak;        hanya metode dalam objek tersebut yang diberi izin untuk mengakses keadaannya.
-    -Pholimorpisme melalui pengiriman pesan. Tidak bergantung kepada pemanggilan subrutin, bahasa orientasi objek dapat mengirim pesan;      metode tertentu yang berhubungan dengan sebuah pengiriman pesan tergantung kepada objek tertentu di mana pesa tersebut dikirim.          Contohnya, bila sebuah burung menerima pesan "gerak cepat", dia akan menggerakan sayapnya dan terbang.
-2.  Class adalah sebuah rancangan sedangkan objek adalah sebuah hasil dari rancangan class.
-3.  Meningkatkan produktivitas. Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya     yang menggunakan objek tersebut (reusable).
-4.  merek, kecepatan, gear, dan warna.
+Jawaban<br>
+1.  -Kelas kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu. Sebagai contoh 'class of dog'          adalah suatu unit yang terdiri atas definisi-definisi data dan fungsi-fungsi yang menunjuk pada berbagai macam perilaku/turunan          dari anjing. Sebuah class adalah dasar dari modularitas dan struktur dalam pemrograman berorientasi object.<br>
+    -Objek membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari modularitas        dan struktur dalam sebuah program komputer berorientasi objek.<br>
+    -Abstraksi Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti.      Setiap objek dalam sistem melayani sebagai model dari "pelaku" abstrak yang dapat melakukan kerja, laporan dan perubahan                keadaannya, dan berkomunikasi dengan objek lainnya dalam sistem, tanpa mengungkapkan bagaimana kelebihan ini diterapkan.<br>
+    -Enkapsulasi Memastikan pengguna sebuah objek tidak dapat mengganti keadaan dalam dari sebuah objek dengan cara yang tidak layak;        hanya metode dalam objek tersebut yang diberi izin untuk mengakses keadaannya.<br>
+    -Pholimorpisme melalui pengiriman pesan. Tidak bergantung kepada pemanggilan subrutin, bahasa orientasi objek dapat mengirim pesan;      metode tertentu yang berhubungan dengan sebuah pengiriman pesan tergantung kepada objek tertentu di mana pesa tersebut dikirim.          Contohnya, bila sebuah burung menerima pesan "gerak cepat", dia akan menggerakan sayapnya dan terbang.<br>
+2.  Class adalah sebuah rancangan sedangkan objek adalah sebuah hasil dari rancangan class.<br>
+3.  Meningkatkan produktivitas. Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya     yang menggunakan objek tersebut (reusable).<br>
+4.  merek, kecepatan, gear, dan warna.<br>
 5.ss
-6.  Karena sepeda gunung adalah turunan dari class sepeda
+6.  Karena sepeda gunung adalah turunan dari class sepeda.
 
 
 ## Tugas
