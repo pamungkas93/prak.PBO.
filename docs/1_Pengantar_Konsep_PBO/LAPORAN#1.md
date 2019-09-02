@@ -41,9 +41,9 @@ Contoh link SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/motor.png)<br>
-![contoh screenshot](img/contoh-schot1.PNG)<br>
-![contoh screenshot](img/contoh-schot1.PNG)
+![screenshot motor.java](img/motor.png)<br>
+![screenshot MotorTrail.java](img/MotorTrail.png)<br>
+![screenshot SepedaMotor.java](img/SepedaMotor.png)
 
 Contoh link Motor : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Motor.java)<br>
 Contoh link MotorTrail : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/MotorTrail.java)<br>
