@@ -40,7 +40,7 @@ Soal<br>
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!<br>
 4. Pada class Sepeda, terdapat state/atribut apa saja?<br>
 5. Tambahkan atribut warna pada class Sepeda.<br>
-6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
 Jawaban<br>
 1.  -Kelas kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu. Sebagai contoh 'class of dog'          adalah suatu unit yang terdiri atas definisi-definisi data dan fungsi-fungsi yang menunjuk pada berbagai macam perilaku/turunan          dari anjing. Sebuah class adalah dasar dari modularitas dan struktur dalam pemrograman berorientasi object.<br>
     -Objek membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari modularitas        dan struktur dalam sebuah program komputer berorientasi objek.<br>
