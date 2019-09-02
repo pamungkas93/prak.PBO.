@@ -41,7 +41,7 @@ Soal<br>
 4. Pada class Sepeda, terdapat state/atribut apa saja?<br>
 5. Tambahkan atribut warna pada class Sepeda.<br>
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
-Jawaban<br>
+Jawaban<br><p>
 1.  -Kelas kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu. Sebagai contoh 'class of dog'          adalah suatu unit yang terdiri atas definisi-definisi data dan fungsi-fungsi yang menunjuk pada berbagai macam perilaku/turunan          dari anjing. Sebuah class adalah dasar dari modularitas dan struktur dalam pemrograman berorientasi object.<br>
     -Objek membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari modularitas        dan struktur dalam sebuah program komputer berorientasi objek.<br>
     -Abstraksi Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti.      Setiap objek dalam sistem melayani sebagai model dari "pelaku" abstrak yang dapat melakukan kerja, laporan dan perubahan                keadaannya, dan berkomunikasi dengan objek lainnya dalam sistem, tanpa mengungkapkan bagaimana kelebihan ini diterapkan.<br>
@@ -51,7 +51,7 @@ Jawaban<br>
 3.  Meningkatkan produktivitas. Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya     yang menggunakan objek tersebut (reusable).<br>
 4.  merek, kecepatan, gear, dan warna.<br>
 5.ss
-6.  Karena sepeda gunung adalah turunan dari class sepeda.
+6.  Karena sepeda gunung adalah turunan dari class sepeda.</p>
 
 
 ## Tugas
