@@ -41,7 +41,7 @@ Contoh link SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)<br>
+![contoh screenshot](img/motor.png)<br>
 ![contoh screenshot](img/contoh-schot1.PNG)<br>
 ![contoh screenshot](img/contoh-schot1.PNG)
 
