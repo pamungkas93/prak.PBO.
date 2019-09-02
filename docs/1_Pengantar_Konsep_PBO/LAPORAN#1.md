@@ -16,7 +16,8 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/ss1.png)
+![screenshot sepeda.java](img/sepeda.png)
+![screenshot sepedademo.java](img/sepedademo.png)
 
 Contoh link Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
 Contoh link SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
