@@ -2,17 +2,19 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:<br>
+1. Perbedaan paradigma berorientasi objek dengan paradigma struktural<br>
+2. Konsep dasar PBO
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Bagaimana cara cucu bisa memanggil kakeknya
 
 ## Percobaan
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+Sepeda.java itu adalah sebuah class sedangkan SepedaDemo.java adalah main class
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
@@ -24,7 +26,7 @@ Contoh link SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+SepedaGunung.java merupakan sebuah turunan dari class Sepeda.java
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
@@ -59,7 +61,6 @@ Jawaban<br><p>
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
@@ -75,7 +76,7 @@ Contoh link SepedaMotor : [ini contoh link ke kode program](../../src/1_Penganta
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Jadi, Class itu adalah sebuah rancangan untuk mendapatkan hasil dari main class dengan adanya extends class main class dapat lebih terperinci hasilnya
 
 ## Pernyataan Diri
 
@@ -85,4 +86,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(Dhuta Pamungkas Ibnusiqin)***
