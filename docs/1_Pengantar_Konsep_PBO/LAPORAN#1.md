@@ -29,7 +29,7 @@ Contoh link SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar
 
 ![contoh screenshot](img/contoh-schot1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
