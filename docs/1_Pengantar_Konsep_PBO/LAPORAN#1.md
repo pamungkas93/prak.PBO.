@@ -16,7 +16,7 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/Screenshot (179).png)
+![contoh screenshot](img/contoh-schot1.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/Contoh12345Habibie.java)
 
