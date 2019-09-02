@@ -19,6 +19,7 @@
 ![contoh screenshot](img/ss1.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/Contoh12345Habibie.java)
 
 ### Percobaan 2
 
