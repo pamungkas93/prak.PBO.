@@ -52,7 +52,7 @@ Jawaban<br><p>
 4.  Pada class Sepeda, terdapat state/atribut apa saja?<br>
     Merek, kecepatan, gear, dan warna.<br>
 5.  Tambahkan atribut warna pada class Sepeda.<br>
-    (img/warna.png)
+    ![screenshot warna pada class](img/warna.png)
 6.  Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
     Karena sepeda gunung adalah turunan dari class sepeda.</p>
 
