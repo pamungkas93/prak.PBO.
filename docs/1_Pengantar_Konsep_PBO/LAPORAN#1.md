@@ -46,7 +46,7 @@ Contoh link SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengant
 ![contoh screenshot](img/contoh-schot1.PNG)
 
 Contoh link Motor : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Motor.java)<br>
-Contoh link MotorTrail : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/MotorTrail)<br>
+Contoh link MotorTrail : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/MotorTrail.java)<br>
 Contoh link SepedaMotor : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaMotor.java)
 
 
