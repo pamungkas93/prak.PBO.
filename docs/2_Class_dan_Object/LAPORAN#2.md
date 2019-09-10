@@ -1,77 +1,64 @@
-# Laporan Praktikum #1 - Pengantar Konsep PBO
+# Laporan Praktikum #2 - Pengantar Konsep PBO
 
 ## Kompetensi
 
-Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:<br>
-1. Perbedaan paradigma berorientasi objek dengan paradigma struktural<br>
-2. Konsep dasar PBO
+Mahasiswa dapat memahami deskripsi dari class dan object <br> 
+Mahasiswa memahami implementasi dari class <br> 
+Mahasiswa dapat memahami implementasi dari attribute <br>
+Mahasiswa dapat memahami implementasi dari method <br>
+Mahasiswa dapat memahami implementasi dari proses instansiasi <br>
+Mahasiswa dapat memahami implementasi dari try-catch <br>
+Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML 
 
 ## Ringkasan Materi
 
-Bagaimana cara cucu bisa memanggil kakeknya
+Pada pertemuan sebelumnya anda sudah diberikan banyak penjelasan secara semantic (makna) mengenai deskripsi dari class dan object. Secara singkat class adalah abstraksi dari sebuah object (nyata ataupun tdk nyata) (roger s pressman). Apabila kita ingin membuat class mahasiswa, maka kita perlu melakukan abstraksi (mengindikasi bagian – bagian penting yang merepresentasikan benda itu sendiri) dari object mahasiswa itu sendiri
 
 ## Percobaan
 
 ### Percobaan 1
 
-Sepeda.java itu adalah sebuah class sedangkan SepedaDemo.java adalah main class
+` screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![screenshot MahasiswaMain.java](img/MahasiswaMain.png)
+![screenshot Mahasiswa.java](img/Mahasiswa.png)
 
-![screenshot sepeda.java](img/sepeda.png)
-![screenshot sepedademo.java](img/sepedademo.png)
-
-Contoh link Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
-Contoh link SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+ link TestMahasiswa.java : [ini  link ke kode program](../../src/2_Class_dan_Object/TestMahasiswa.java)<br>
+ link Mahasiswa.java : [ini  link ke kode program](../../src/2_Class_dan_Object/Mahasiswa.java)
 
 ### Percobaan 2
 
-SepedaGunung.java merupakan sebuah turunan dari class Sepeda.java
+` screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![screenshot sepedagunung.java](img/sepedagunung.png)
-
-Contoh link SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
-
-## Pertanyaan
+![screenshot Barang.java](img/BarangJava.png)
+![screenshot BarangMain.java](img/BarangMainJava.png)
 
 
 
-
-
-Jawaban<br><p>
-1.   Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!<br>
-    -Kelas kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu. Sebagai contoh 'class of dog'          adalah suatu unit yang terdiri atas definisi-definisi data dan fungsi-fungsi yang menunjuk pada berbagai macam perilaku/turunan          dari anjing. Sebuah class adalah dasar dari modularitas dan struktur dalam pemrograman berorientasi object.<br>
-    -Objek membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari modularitas        dan struktur dalam sebuah program komputer berorientasi objek.<br>
-    -Abstraksi Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti.      Setiap objek dalam sistem melayani sebagai model dari "pelaku" abstrak yang dapat melakukan kerja, laporan dan perubahan                keadaannya, dan berkomunikasi dengan objek lainnya dalam sistem, tanpa mengungkapkan bagaimana kelebihan ini diterapkan.<br>
-    -Enkapsulasi Memastikan pengguna sebuah objek tidak dapat mengganti keadaan dalam dari sebuah objek dengan cara yang tidak layak;        hanya metode dalam objek tersebut yang diberi izin untuk mengakses keadaannya.<br>
-    -Pholimorpisme melalui pengiriman pesan. Tidak bergantung kepada pemanggilan subrutin, bahasa orientasi objek dapat mengirim pesan;      metode tertentu yang berhubungan dengan sebuah pengiriman pesan tergantung kepada objek tertentu di mana pesa tersebut dikirim.          Contohnya, bila sebuah burung menerima pesan "gerak cepat", dia akan menggerakan sayapnya dan terbang.<br>
-2.  Apa yang dimaksud dengan object dan apa bedanya dengan class?<br>
-    Class adalah sebuah rancangan sedangkan objek adalah sebuah hasil dari rancangan class.<br>
-3.  Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!<br>
-    Meningkatkan produktivitas. Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya     yang menggunakan objek tersebut (reusable).<br>
-4.  Pada class Sepeda, terdapat state/atribut apa saja?<br>
-    Merek, kecepatan, gear, dan warna.<br>
-5.  Tambahkan atribut warna pada class Sepeda.<br>
-    ![screenshot warna pada class](img/warna.png)
-6.  Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?<br>
-    Karena sepeda gunung adalah turunan dari class sepeda.</p>
-
+ link Barang.java : [ini  link ke kode program](../../src/2_Class_dan_Object/Barang.java)<br>
+ link TestBarang.java : [ini  link ke kode program](../../src/2_Class_dan_Object/TestBarang.java)
 
 ## Tugas
 
+` screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![screenshot GudangGame.java](img/GudangGame.png)<br>
+![screenshot GudangGameMain.java](img/GudangGameMain.png)<br>
 
-![screenshot motor.java](img/motor.png)<br>
-![screenshot MotorTrail.java](img/motortrail.png)<br>
-![screenshot SepedaMotor.java](img/sepedamotor.png)
+![screenshot Lingkaran.java](img/Lingkaran.png)
+![screenshot LingkaranMain.java](img/LingkaranMain.png)
 
-Contoh link Motor : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Motor.java)<br>
-Contoh link MotorTrail : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/MotorTrail.java)<br>
-Contoh link SepedaMotor : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaMotor.java)
+![screenshot Barang.java](img/BarangJava.png)
+![screenshot BarangMain.java](img/BarangMainJava.png)
 
+ link GudangGame.java : [ini  link ke kode program](../../src/2_Class_dan_Object/GudangGame1941723014Dhuta.java)<br>
+ link GudangGameMain.java : [ini  link ke kode program](../../src/2_Class_dan_Object/GudangGameMain1941723014Dhuta.java)<br>
+
+ link Lingkaran.java : [ini  link ke kode program](../../src/2_Class_dan_Object/Lingkaran.java)<br>
+ link LingkaranMain.java : [ini  link ke kode program](../../src/2_Class_dan_Object/LingkaranMain.java)
+
+ link Barang.java : [ini  link ke kode program](../../src/2_Class_dan_Object/Barang.java)<br>
+ link TestBarang.java : [ini  link ke kode program](../../src/2_Class_dan_Object/TestBarang.java)
 
 
 ## Kesimpulan
