@@ -1,7 +1,6 @@
 package barang;
 
 /**
- *
  * @author ASUS
  */
 public class Barang {
