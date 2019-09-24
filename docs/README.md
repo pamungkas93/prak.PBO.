@@ -1,5 +1,6 @@
 # Petunjuk Membuat Laporan Praktikum
 
+
 Silakan menggunakan format penulisan seperti pada contoh [ini](1_Pengantar_Konsep_PBO/LAPORAN%231.md).
 
 Setiap file laporan berformat seperti berikut:
