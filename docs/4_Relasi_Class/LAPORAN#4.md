@@ -1,4 +1,4 @@
-# Laporan Praktikum #2 - Pengantar Konsep PBO
+# Laporan Praktikum #4 - Pengantar Konsep PBO
 
 ## Kompetensi
 
@@ -56,11 +56,11 @@ link Processor.java : [ini  link ke kode program](../../src/4_Relasi_Class/Proce
 
 Sopir
 
-![screenshot Sopir.java](img/Sopir.png)
+sjkdhakshdkjhdk![screenshot Sopir.java](img/Sopir.png)
 
 Pelanggan
 
-![screenshot Pelanggan.java](img/Pelanggan.png)
+adshkjashdhaskjd![screenshot Pelanggan.java](img/Pelanggan.png)
 
 Mobil
 
@@ -102,7 +102,7 @@ Mobil
 
 Pegawai
 
-![screenshot Pegawai](img/Pegawai.png)
+![screenshot Pegawai](img/pegawai.png)
 
 Kereta Api
 
