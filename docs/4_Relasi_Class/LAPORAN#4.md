@@ -134,15 +134,15 @@ Kereta Api
 
 Penumpang
 
-![screenshot Penumpang](img/penumpang.PNG)
+![screenshot Penumpang](img/penumpang.png)
 
 Kursi
 
-![screenshot Kursi](img/kursi.PNG)
+![screenshot Kursi](img/kursi.png)
 
 Gerbong
 
-![screenshot Gerbong](img/gerbong.PNG)
+![screenshot Gerbong](img/gerbong.png)
 
 ## Pertanyaan
 
