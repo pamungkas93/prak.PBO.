@@ -102,7 +102,7 @@ Mobil
 
 Pegawai
 
-![screenshot Pegawai](img/pegawai.png)
+![screenshot Pegawai](img/pegawai.PNG)
 
 Kereta Api
 
