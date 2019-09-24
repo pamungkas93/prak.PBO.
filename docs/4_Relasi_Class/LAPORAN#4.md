@@ -16,11 +16,11 @@
 
 Laptop
 
-![screenshot Laptop.java](img/Laptop.png)
+![screenshot Laptop](img/Laptop.PNG)
 
 Processor
 
-![screenshot Processor.java](img/Processor.png)
+![screenshot Processor](img/Processor.PNG)
 
 ## Pertanyaan
 
@@ -49,22 +49,22 @@ Processor
 	Jawab :
 	P adalah nama alias
 
-link Laptop.java : [ini  link ke kode program](../../src/4_Relasi_Class/Laptop.java)<br>
-link Processor.java : [ini  link ke kode program](../../src/4_Relasi_Class/Processor.java)
+link Laptop : [ini  link ke kode program](../../src/4_Relasi_Class/Laptop.java)<br>
+link Processor : [ini  link ke kode program](../../src/4_Relasi_Class/Processor.java)
 
 ### Percobaan 2
 
 Sopir
 
-sjkdhakshdkjhdk![screenshot Sopir.java](img/Sopir.png)
+![screenshot Sopir](img/Sopir.PNG)
 
 Pelanggan
 
-adshkjashdhaskjd![screenshot Pelanggan.java](img/Pelanggan.png)
+![screenshot Pelanggan](img/Pelanggan.PNG)
 
 Mobil
 
-![screenshot Mobil.java](img/Mobil.png)
+![screenshot Mobil](img/Mobil.PNG)
 
 ## Pertanyaan
 
@@ -102,11 +102,11 @@ Mobil
 
 Pegawai
 
-![screenshot Pegawai](img/pegawai.png)
+![screenshot Pegawai](img/pegawai.PNG)
 
 Kereta Api
 
-![screenshot kertaApi](img/keretaApi.png)
+![screenshot kertaApi](img/keretaApi.PNG)
 
 ## Pertanyaan
 
@@ -116,7 +116,7 @@ Kereta Api
 
 	2.	Buatlah main program baru dengan nama class MainPertanyaan pada package yang sama. Tambahkan kode berikut pada method main() !
 	Jawab :
-![screenshot ](img/3_2.png)
+![screenshot ](img/32.PNG)
 
 	3.	Apa hasil output dari main program tersebut ? Mengapa hal tersebut dapat terjadi ? 
 	Jawab :
@@ -124,7 +124,7 @@ Kereta Api
 
 	4.	Perbaiki class KeretaApi sehingga program dapat berjalan ! 
 	Jawab :
-![screenshot KeretaApi](img/keretaApi.png)
+![screenshot KeretaApi](img/keretaApi.PNG)
 
 
  link Pegawai : [ini  link ke kode program](../../src/4_Relasi_Class/pegawai.java)<br>
@@ -134,15 +134,15 @@ Kereta Api
 
 Penumpang
 
-![screenshot Penumpang](img/penumpang.png)
+![screenshot Penumpang](img/penumpang.PNG)
 
 Kursi
 
-![screenshot Kursi](img/kursi.png)
+![screenshot Kursi](img/kursi.PNG)
 
 Gerbong
 
-![screenshot Gerbong](img/gerbong.png)
+![screenshot Gerbong](img/gerbong.PNG)
 
 ## Pertanyaan
 
@@ -161,14 +161,16 @@ Gerbong
 
 	4.	
 
-![screenshot Gerbong](img/P4_no4.png)	
+![screenshot Gerbong](img/P4no4.PNG)	
 
 	5.	
-![screenshot Gerbong](img/P4_no5.png)
+![screenshot Gerbong](img/P4no5.PNG)
 
 
- link Penumpang : [ini  link ke kode program](../../src/4_Relasi_Class/penumpang.java)<br>
- link Kursi : [ini  link ke kode program](../../src/4_Relasi_Class/kursi.java)<br>
+ link Penumpang : [ini  link ke kode program](../../src/4_Relasi_Class/penumpang.java)
+
+ link Kursi : [ini  link ke kode program](../../src/4_Relasi_Class/kursi.java)
+
  link Gerbong : [ini  link ke kode program](../../src/4_Relasi_Class/Gerbong.java)
 
 
@@ -176,33 +178,33 @@ Gerbong
 
 Relasi Restouran
 
-![screenshot RelasiRestauran.java](img/RelasiRestouran.png)
+![screenshot RelasiRestauran](img/RelasiRestouran.PNG)
 
 Pembeli
 
-![screenshot Pembeli.java](img/Pembeli.png)
+![screenshot Pembeli](img/Pembeli.PNG)
 
 Pelayan
 
-![screenshot Pelayan.java](img/Pelayan.png)
+![screenshot Pelayan](img/Pelayan.PNG)
 
 Makanan
 
-![screenshot Makanan.java](img/Makanan.png)
+![screenshot Makanan](img/Makanan.PNG)
 
 Kasir
 
-![screenshot Kasir.java](img/Kasir.png)
+![screenshot Kasir](img/Kasir.PNG)
 
 ## Kesimpulan
 
-Jadi, Dalam suatu sistem akan ditemukan lebih dari satu class yang saling memiliki keterkaitan antara class satu dengan yang lain. 
+	Jadi, Dalam suatu sistem akan ditemukan lebih dari satu class yang saling memiliki keterkaitan antara class satu dengan yang lain. 
 
 ## Pernyataan Diri
 
-Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+	Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
 
-Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+	Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
 
 Ttd,
 
