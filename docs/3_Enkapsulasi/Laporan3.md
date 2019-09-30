@@ -1,5 +1,7 @@
 # Laporan Praktikum 3 - Pengantar Konsep PBO
 
+## Encapsulation
+
 ## Kompetensi
 
 Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
