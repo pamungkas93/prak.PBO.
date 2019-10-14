@@ -24,27 +24,27 @@ Adalah Sublass yang berusaha memodifkasi tingkah laku yang diwarisi dari supercl
 
 ### Percobaan 1
 
-Karyawan
+Karyawan  
 
-![screenshot Karyawan](img/A.PNG)
+![screenshot Karyawan](img/Kariawan.PNG)
 
 Manager
 
-![screenshot Manager](img/B.PNG)
+![screenshot Manager](img/Manager.PNG)
 
 Staff
 
-![screenshot Staff](img/percobaan1fix.PNG)
+![screenshot Staff](img/Staff.PNG)
 
-Utama
+Main
 
-![screenshot Utama](img/percobaan1fix.PNG)
+![screenshot Utama](img/MainKariawan.PNG)
 
 
-link Karyawan : [ini  link ke kode program](../../src/4_Relasi_Class/Laptop.java)<br>
-link Manager : [ini  link ke kode program](../../src/4_Relasi_Class/Processor.java)<br>
-link Staff : [ini  link ke kode program](../../src/4_Relasi_Class/Processor.java)<br>
-link Utama : [ini  link ke kode program](../../src/4_Relasi_Class/Processor.java)
+link Karyawan : [ini  link ke kode program](../../src/7_Overloading_Overriding/Kariawan1941723014Dhuta.java)<br>
+link Manager : [ini  link ke kode program](../../src/7_Overloading_Overriding/Manager1941723014Dhuta.java)<br>
+link Staff : [ini  link ke kode program](../../src/7_Overloading_Overriding/Staff1941723014Dhuta.java)<br>
+link Main : [ini  link ke kode program](../../src/7_Overloading_Overriding/MainClassTugasOverriding.java)
 
 ### Percobaan 2 (Latihan)
 
@@ -52,44 +52,54 @@ link Utama : [ini  link ke kode program](../../src/4_Relasi_Class/Processor.java
 
 PerkalianKu1
 
-![screenshot PerkalianKu1](img/Sopir.PNG)
+![screenshot PerkalianKu1](img/perkalianku.PNG)
 
 ## Pertanyaan
 
 	1. Dari source coding diatas terletak dimanakah overloading?
 	Jawab:
+	Berada di void perkalian (int a, int b) parameter
+
 	2. Jika terdapat overloading ada berapa jumlah parameter yang berbeda? 
 	Jawab:
+	Ada 2
 
-link PerkalianKu 1 : [ini  link ke kode program](../../src/4_Relasi_Class/Processor.java)
+link PerkalianKu 1 : [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu.java)
 
 PerkalianKu2
 
-![screenshot PerkalianKu2](img/Sopir.PNG)
+![screenshot PerkalianKu2](img/perkalianKu2.PNG)
 
 ## Pertanyaan
 
 	1.  Dari source coding diatas terletak dimanakah overloading? 
 	Jawab:
+	Berada di (int a, int b) dan (double a, double b)
+
 	2. Jika terdapat overloading ada berapa tipe parameter yang berbeda? 
 	Jawab:
+	Ada dua int dan double
 	
-link PerkalianKu 2: [ini  link ke kode program](../../src/4_Relasi_Class/Sopir.java)
+link PerkalianKu 2: [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu2.java)
 
 ### Ikan
 
 Ikan
 
-![screenshot Ikan](img/Sopir.PNG)
+![screenshot Ikan](img/ikan.PNG)
 
 ## Pertanyaan
 
 	1.  Dari source coding diatas terletak dimanakah overriding? 
 	Jawab:
+	
+![screenshot Ikan](img/ikanss.PNG)
+
 	2. Jabarkanlah apabila sourcoding diatas jika terdapat overriding?
-	Jawab: 
+	Jawab:
+	Overriding Merupakan Suatu Keadaan Dimana kelas fish dan piranha dapat mengubah atau bisa kita bilang memodifikasi atau memperluas data dan method pada kelas ikan
  
-link Ikan: [ini  link ke kode program](../../src/4_Relasi_Class/Sopir.java)
+link Ikan: [ini  link ke kode program](../../src/7_Overloading_Overriding/Ikan.java)
 
 ## Tugas
 
@@ -97,27 +107,27 @@ link Ikan: [ini  link ke kode program](../../src/4_Relasi_Class/Sopir.java)
 
 Segitiga
 
-![screenshot Segitiga](img/Sopir.PNG)
+![screenshot Segitiga](img/ClassSegitiga.PNG)
 
-link Segitiga: [ini  link ke kode program](../../src/4_Relasi_Class/Sopir.java)
+link Segitiga: [ini  link ke kode program](../../src/7_Overloading_Overriding/ClassSegitiga19417230014Dhuta.java)
 
 ### Overriding (Manusia)
 
 Manusia
 
-![screenshot Manusia](img/Sopir.PNG)
+![screenshot Manusia](img/Manusia.PNG)
 
 Dosen
 
-![screenshot Dosen](img/Sopir.PNG)
+![screenshot Dosen](img/Dosen.PNG)
 
 Mahasiswa
 
-![screenshot Mahasiswa](img/Sopir.PNG)
+![screenshot Mahasiswa](img/Mahasiswa.PNG)
 
-link Manusia: [ini  link ke kode program](../../src/4_Relasi_Class/Sopir.java)<br>
-link Dosen: [ini  link ke kode program](../../src/4_Relasi_Class/Sopir.java)<br>
-link Mahasiswa: [ini  link ke kode program](../../src/4_Relasi_Class/Sopir.java)
+link Manusia: [ini  link ke kode program](../../src/7_Overloading_Overriding/Manusia1941723014Dhuta.java)<br>
+link Dosen: [ini  link ke kode program](../../src/7_Overloading_Overriding/Dosen1941723014Dhuta.java)<br>
+link Mahasiswa: [ini  link ke kode program](../../src/7_Overloading_Overriding/Mahasiswa1941723014Dhuta.java)
 
 ## Kesimpulan
 
