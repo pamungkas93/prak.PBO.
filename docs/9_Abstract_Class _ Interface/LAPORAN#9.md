@@ -29,7 +29,7 @@ Hewan
 
 Kucing
 
-![screenshot Kucing](img/Kucing.PNG)
+![screenshot Kucing](img/kucing.PNG)
 
 Ikan
 
