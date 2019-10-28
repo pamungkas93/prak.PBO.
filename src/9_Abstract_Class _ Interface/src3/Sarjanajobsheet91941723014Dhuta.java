@@ -1,0 +1,36 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package jobsheet91941723014Dhuta.interfacelatihan;
+
+/**
+ *
+ * @author ASUS
+ */
+public class Sarjanajobsheet91941723014Dhuta extends Mahasiswajobsheet91941723014Dhuta implements ICumlaudejobsheet91941723014Dhuta, IBerprestasi1941723014Dhuta{
+    public Sarjanajobsheet91941723014Dhuta(String nama){
+        super(nama);
+    }
+
+    @Override
+    public void lulus() {
+        System.out.println("Aku sudah menyelesaikan SKRIPSI");
+    }
+
+    @Override
+    public void meraihIPKTinggi() {
+        System.out.println("IPK-ku lebih dari 3,51");
+    }
+
+    @Override
+    public void menjuaraiKompetisi() {
+        System.out.println("Saya Telah Menjuarai Kompetisi INTERNATIONAL");
+    }
+
+    @Override
+    public void membuatPublikasiIlmiah() {
+        System.out.println("Saya Menerbitkan Artikel di Jurnal INTERNATIONAL");
+    }
+}

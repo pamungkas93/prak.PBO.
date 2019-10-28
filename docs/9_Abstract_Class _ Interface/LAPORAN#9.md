@@ -1,6 +1,6 @@
-# Laporan #7 - Pengantar Konsep PBO
+# Laporan #9 - Pengantar Konsep PBO
 
-# Overloading & Overriding
+# Abstract Class & Interface
 
 ## Kompetensi
 
@@ -25,60 +25,60 @@ Interface adalah Struktur data yang hanya berisi abstract methods. Tidak ada apa
 
 Hewan
 
-![screenshot Hewan](img/Kariawan.PNG)
+![screenshot Hewan](img/Hewan.PNG)
 
 Kucing
 
-![screenshot Kucing](img/Manager.PNG)
+![screenshot Kucing](img/Kucing.PNG)
 
 Ikan
 
-![screenshot Ikan](img/Staff.PNG)
+![screenshot Ikan](img/ikan.PNG)
 
 Orang
 
-![screenshot Orang](img/MainKariawan.PNG)
+![screenshot Orang](img/orang.PNG)
 
 Program
 
-![screenshot Program](img/MainKariawan.PNG)
+![screenshot Program](img/program.PNG)
 
 ## Pertanyaan
 
 	Bolehkah apabila sebuah class yang meng-extend suatu abstract class tidak mengimplementasikan method abstract yang ada di class induknya? Buktikan!”
 	Jawab:
 
-link Hewan : [ini  link ke kode program](../../src/7_Overloading_Overriding/Kariawan1941723014Dhuta.java)<br>
-link Kucing : [ini  link ke kode program](../../src/7_Overloading_Overriding/Manager1941723014Dhuta.java)<br>
-link Ikan : [ini  link ke kode program](../../src/7_Overloading_Overriding/Staff1941723014Dhuta.java)<br>
-link Orang : [ini  link ke kode program](../../src/7_Overloading_Overriding/MainClassTugasOverriding.java)<br>
-link Program : [ini  link ke kode program](../../src/7_Overloading_Overriding/MainClassTugasOverriding.java)
+link Hewan : [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Hewan1941723014Dhuta.java)<br>
+link Kucing : [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Kucing1941723014Dhuta.java)<br>
+link Ikan : [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Ikan1941723014Dhuta.java)<br>
+link Orang : [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Orang1941723014Dhuta.java)<br>
+link Program : [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Program1941723014Dhuta.java)
 
 ### Percobaan 2 (Interface)
 
 ICumlaude
 
-![screenshot ICumlaude](img/perkalianku.PNG)
+![screenshot ICumlaude](img/ICumlaude.PNG)
 
 Mahasiswa
 
-![screenshot Mahasiswa](img/perkalianku.PNG)
+![screenshot Mahasiswa](img/mahasiswa.PNG)
 
 Sarjana
 
-![screenshot Sarjana](img/perkalianku.PNG)
+![screenshot Sarjana](img/sarjana.PNG)
 
 Pasca Sarjana
 
-![screenshot PascaSarjana](img/perkalianku.PNG)
+![screenshot PascaSarjana](img/pascaSarjana.PNG)
 
 Rektor
 
-![screenshot Rektor](img/perkalianku.PNG)
+![screenshot Rektor](img/rektor.PNG)
 
 Program
 
-![screenshot Program](img/perkalianku.PNG)
+![screenshot Program](img/program2.PNG)
 
 ## Pertanyaan
 
@@ -94,49 +94,50 @@ Program
 	4.	Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut:
 	Jawab:
 	
-link ICumlaude: [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu2.java)<br>
-link Mahasiswa: [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu2.java)<br>
-link Sarjana: [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu2.java)<br>
-link Pasca Sarjana: [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu2.java)<br>
-link Rektor: [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu2.java)<br>
-link Program: [ini  link ke kode program](../../src/7_Overloading_Overriding/PerkalianKu2.java)
+link ICumlaude: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/ICumlaudejobsheet91941723014Dhuta.java)<br>
+link Mahasiswa: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Mahasiswajobsheet91941723014Dhuta.java)<br>
+link Sarjana: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Sarjanajobsheet91941723014Dhuta.java)<br>
+link Pasca Sarjana: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/PascaSarjanajobsheet91941723014Dhuta.java)<br>
+link Rektor: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Rektorjobsheet91941723014Dhuta.java)<br>
+link Program: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Programjobsheet91941723014Dhuta.java)
 
 ### Percobaan 3 (Multiple Interfaces Implementation)
 
 IBerprestasi
 
-![screenshot IBerprestasi](img/ClassSegitiga.PNG)
+![screenshot IBerprestasi](img/IBerprestasi.PNG)
 
 ICumlaude
 
-![screenshot ICumlaude](img/ClassSegitiga.PNG)
+![screenshot ICumlaude](img/ICumlaude3.PNG)
 
 Mahasiswa
 
-![screenshot Mahasiswa](img/ClassSegitiga.PNG)
+![screenshot Mahasiswa](img/mahasiswa3.PNG)
 
 Rektor
 
-![screenshot Rektor](img/ClassSegitiga.PNG)
+![screenshot Rektor](img/rektor3.PNG)
 
 Pasca Sarjana
 
-![screenshot PascaSarjana](img/ClassSegitiga.PNG)
+![screenshot PascaSarjana](img/pascaSarjana3.PNG)
 
 Sarjana
 
-![screenshot Sarjana](img/ClassSegitiga.PNG)
+![screenshot Sarjana](img/sarjana3.PNG)
 
 ## Pertanyaan
 
 	Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat memberikan sertifikat mawapres pada objek sarjanaCumlaude.
+	Jawab:
 
-link IBerprestasi: [ini  link ke kode program](../../src/7_Overloading_Overriding/Manusia1941723014Dhuta.java)<br>
-link ICumlaude: [ini  link ke kode program](../../src/7_Overloading_Overriding/Dosen1941723014Dhuta.java)<br>
-link Mahasiswa: [ini  link ke kode program](../../src/7_Overloading_Overriding/Mahasiswa1941723014Dhuta.java)<br>
-link Rektor: [ini  link ke kode program](../../src/7_Overloading_Overriding/Mahasiswa1941723014Dhuta.java)<br>
-link Pasca Sarjana: [ini  link ke kode program](../../src/7_Overloading_Overriding/Mahasiswa1941723014Dhuta.java)<br>
-link Sarjana: [ini  link ke kode program](../../src/7_Overloading_Overriding/Mahasiswa1941723014Dhuta.java)
+link IBerprestasi: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/IBerprestasi1941723014Dhuta.java)<br>
+link ICumlaude: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/ICumlaudejobsheet91941723014Dhuta.java)<br>
+link Mahasiswa: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/Mahasiswa1941723014Dhuta.java)<br>
+link Rektor: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/Rektorjobsheet91941723014Dhuta.java)<br>
+link Pasca Sarjana: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/PascaSarjanajobsheet91941723014Dhuta.java)<br>
+link Sarjana: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/Sarjanajobsheet91941723014Dhuta.java)
 
 ## Kesimpulan
 
