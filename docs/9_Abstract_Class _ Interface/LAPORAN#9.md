@@ -47,6 +47,7 @@ Program
 
 	Bolehkah apabila sebuah class yang meng-extend suatu abstract class tidak mengimplementasikan method abstract yang ada di class induknya? Buktikan!”
 	Jawab:
+	Jika suatu class meng-extend suatu abstract class maka akan terjadi error, karena subclass dari class abstrak harus mengimplementasi method abstrak
 
 link Hewan : [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Hewan1941723014Dhuta.java)<br>
 link Kucing : [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Kucing1941723014Dhuta.java)<br>
@@ -84,15 +85,20 @@ Program
 
 	1.  Mengapa pada langkah nomor 9 terjadi error? Jelaskan!
 	Jawab:
+	Error, karena pada class Mahasiswa tidak diimplementasikan method abstract yang ada pada class interface yaitu class ICumlaude sehingga pada saat pemanggilan di class Rektor terjadi error
 
 	2. 	Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class Program? Mengapa demikian?
 	Jawab:
+	Jika kita menambahkan method abstract kuliahDiKampus() pada class interface Icumlaude maka tidak akan terjadi error
 
 	3.	Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian?
 	Jawab:
+	Class Rektor memanggil method abstract pada ICumlaude melalui class Mahasiswa sehingga tinggal menambahkan method dibawah pada class Rektor
 
-	4.	Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut:
+	4.	Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut
 	Jawab:
+
+![screenshot Program](img/rektorHasil.PNG)	
 	
 link ICumlaude: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/ICumlaudejobsheet91941723014Dhuta.java)<br>
 link Mahasiswa: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/Mahasiswajobsheet91941723014Dhuta.java)<br>
@@ -131,6 +137,8 @@ Sarjana
 
 	Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat memberikan sertifikat mawapres pada objek sarjanaCumlaude.
 	Jawab:
+
+![screenshot Jawaban](img/jwbnSoalNo4.PNG)	
 
 link IBerprestasi: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/IBerprestasi1941723014Dhuta.java)<br>
 link ICumlaude: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/src3/ICumlaudejobsheet91941723014Dhuta.java)<br>
