@@ -1,4 +1,4 @@
-# Laporan #9 - Pengantar Konsep PBO
+# Praktikum #9 - Pengantar Konsep PBO
 
 # Abstract Class dan Interface
 
