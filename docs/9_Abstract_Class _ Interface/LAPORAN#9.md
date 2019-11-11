@@ -1,6 +1,6 @@
 # Laporan #9 - Pengantar Konsep PBO
 
-# Abstract Class & Interface
+# Abstract Class dan Interface
 
 ## Kompetensi
 
@@ -15,9 +15,25 @@
 ### Abstract Class
 Abstract Class adalah Class yang tidak dapat diinstansiasi namun dapat di-extend. Abstract class baru dapat dimanfaatkan ketia ia di-extend.
 
+Karakteristik:
+- Dapat memiliki properties dan methods seperti class biasa. 
+- Selalu memiliki methods yang tidak memiliki tubuh (hanya deklarasinya saja), disebut juga abstract method. 
+- Selalu dideklarasikan dengan menggunakan keyword ‘abstract class’. 
+
+Kegunaan:<br>
+Menggambarkan sesuatu yang bersifat umum, yang hanya bisa berfungsi setelah ia dideskripsikan kedalam bentuk yang lebih spesifik. 
+
 ### Interface
 Interface adalah Struktur data yang hanya berisi abstract methods. Tidak ada apaapa selain method abstract pada interface, termasuk atribute getter dan setter.
 
+Karakteristik:<br>
+- Tidak ada apa-apa di dalamnya selain abstract methods. 
+- Di konvensi bahasa pemrograman Java, namanya dianjurkan untuk selalu diawali dengan huruf kapital ‘I’. 
+- Selalu dideklarasikan dengan menggunakan keyword ‘interface’. 
+- Diimplementasikan dengan menggunakan keyword ‘implements’. 
+
+Kegunaan:<br>
+Bertindak seperti semacam kontrak/syarat yang HARUS dipenuhi bagi suatu class agar class tersebut dapat dianggap sebagai ‘sesuatu yang lain’.
 
 ## Percobaan
 
@@ -149,6 +165,7 @@ link Sarjana: [ini  link ke kode program](../../src/9_Abstract_Class_Interface/s
 
 ## Kesimpulan
 
+Kesimpulannya adalah penggunaan method abstract pada class parent dan dieimplementasikan pada subclass sehingga tinggal mengubah isi dari method abstract tersebut. Penggunaan abstract class digunakan untuk mengurangi method yang banyak namun memiliki fungsi sama.
 
 ## Pernyataan Diri
 
