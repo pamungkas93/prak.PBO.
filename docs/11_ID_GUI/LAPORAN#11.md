@@ -28,33 +28,43 @@ Java Swing merupakan bagian dari JFC (Java Foundation Classes) yang menyediakan 
 
 HelloGUI
 
-![screenshot HelloGUI](img/employee.PNG)
+![screenshot HelloGUI](img/soalno1/1HasilHelloGui.PNG)
 
 MyInputForm
 
-![screenshot MyInputForm](img/ipayable.PNG)
+![screenshot MyInputForm](img/soalno1/1srcHelloGUI.PNG)
 
-link HelloGUI : [ini  link ke kode program](../../src/11_ID_GUI/Tester11941723014Dhuta.java)<br>
-link MyInputForm : [ini  link ke kode program](../../src/11_ID_GUI/Tester11941723014Dhuta.java)<br
+link HelloGUI : [ini  link ke kode program](../../src/11_ID_GUI/jobsheet11/HelloGui1941723014Dhuta.java)<br>
+link MyInputForm : [ini  link ke kode program](../../src/11_ID_GUI/jobsheet11/MyInputForm1941723014Dhuta.java)
 
 ### Percobaan 2  Menangani Input Pada GUI 
 
-Tester2
+MyInputForm
 
-![screenshot Tester2](img/tester2.PNG)
+![screenshot soal2](img/soalno2/soal2.PNG)
+
+![screenshot soal2](img/soalno2/srcsoal2.PNG)
 
 ## Pertanyaan
 
 	Modifikasi kode program dengan menambahkan JButton baru untuk melakukan fungsi perhitungan penambahan, sehingga ketika button di klik (event click) maka akan menampilkan hasil penambahan dari nilai A dan B.
 	Jawab:
 
-link Tester2: [ini  link ke kode program](../../src/11_ID_GUI/Tester21941723014Dhuta.java)
+link MyInputForm: [ini  link ke kode program](../../src/11_ID_GUI/percobaan2/MyInputForm1941723014.java)
 
 ### Percobaan 3 Manajemen Layout 
 
-Tester3
+BorderLayoutDemo
 
-![screenshot Tester3](img/tester3.PNG)
+![screenshot Border](img/soalno3/1.PNG)
+
+BoxLayoutDemo
+
+![screenshot Box](img/soalno3/1.PNG)
+
+GridLayoutDemo
+
+![screenshot Grid](img/soalno3/1.PNG)
 
 ## Pertanyaan
 
@@ -62,24 +72,24 @@ Tester3
 	Jawab:
 
 	b. Apakah fungsi dari masing-masing kode berikut? 
-SS
+![screenshot soalb](img/soalno3/soal3b.PNG)
 	Jawab:
 
-link Tester3: [ini  link ke kode program](../../src/11_ID_GUI/Tester31941723014Dhuta.java)
+link Border: [ini  link ke kode program](../../src/11_ID_GUI/percobaan3/Border1941723014Dhuta.java)<br>
+link Box: [ini  link ke kode program](../../src/11_ID_GUI/Box1941723014Dhuta.java)<br>
+link Grid: [ini  link ke kode program](../../src/11_ID_GUI/Grid1941723014Dhuta.java)<br>
+link LayoutGUI: [ini  link ke kode program](../../src/11_ID_GUI/LayoutGUI1941723014Dhuta.java)<br>
+link ManajemenLayout: [ini  link ke kode program](../../src/11_ID_GUI/ManajemenLayout1941723014Dhuta.java)
 
 ### Percobaan 4 Membuat GUI Melalui IDE Netbeans 
 
-Owner
+Tampil
 
-![screenshot Owner](img/owner.PNG)
-
-Tester4
-
-![screenshot Tester4](img/tester4.PNG)
+![screenshot Tampil](img/soalno4/Tampil.PNG)
 
 ## Pertanyaan
 	a. Apakah fungsi dari masing-masing kode berikut? 
-SS
+![screenshot soal4](img/soalno4/soal.PNG)
 	Jawab:
 
 	b. Mengapa pada bagian logika checkbox dan radio button digunakan multiple if ?
@@ -88,38 +98,19 @@ SS
 	c. Lakukan modifikasi pada program untuk melakukan menambahkan inputan berupa alamat dan berikan fungsi pemeriksaan pada nilai Alamat tersebut jika belum diisi dengan menampilkan pesan peringatan.
 	Jawab: 
 
-link Owner: [ini  link ke kode program](../../src/11_ID_GUI/Owner1941723014Dhuta.java)<br>
-link Tester4: [ini  link ke kode program](../../src/11_ID_GUI/Tester41941723014Dhuta.java)
+link Swing form: [ini  link ke kode program](../../src/11_ID_GUI/perconbaan4/Swing1941723014Dhuta.form)<br>
+link Swing java: [ini  link ke kode program](../../src/11_ID_GUI/Swing1941723014Dhuta.java)<br>
+link Swing2: [ini  link ke kode program](../../src/11_ID_GUI/Swing21941723014Dhuta.java)
 
 ### Percobaan 5 JTabPane, JTtree, JTable
 
-Zombie
+Hasil Form PercobaanGUI
 
-![screenshot Zombie](img/zombie.PNG)
+![screenshot Form](img/soalno5/HasilSoal5.PNG)
 
-IDestroyable
+PercobaanGUI
 
-![screenshot Destroyable](img/idestroyable.PNG)
-
-Barrier
-
-![screenshot Barrier](img/barrier.PNG)
-
-Plan
-
-![screenshot Plan](img/plant.PNG)
-
-WalkingZombie
-
-![screenshot WalkingZombie](img/walkingzombie.PNG)
-
-JumpingZombie
-
-![screenshot JumpingZombie](img/jumpingzombie.PNG)
-
-Tester
-
-![screenshot Tester](img/tester.PNG)
+![screenshot PercobaanGUI](img/soalno5/HasilsrcNo5.PNG)
 
 ## Pertanyaan
 
@@ -129,13 +120,15 @@ Tester
 	b. Apa kegunaan komponen swing JTabPane, JTtree, pada percobaan 5?
 	Jawab:
 
-link Zombie: [ini  link ke kode program](../../src/11_ID_GUI/Tugas/Zombie1941723014Dhuta.java)<br>
-link IDestroyable: [ini  link ke kode program](../../src/11_ID_GUI/Tugas/IDestroyable1941723014Dhuta.java)<br>
-link Barrier: [ini  link ke kode program](../../src/11_ID_GUI/Tugas/Barrier1941723014Dhuta.java)<br>
-link Plan: [ini  link ke kode program](../../src/11_ID_GUI/Tugas/Plant1941723014Dhuta.java)<br>
-link WalkingZombie: [ini  link ke kode program](../../src/11_ID_GUI/Tugas/WalkingZombie1941723014Dhuta.java)<br>
-link JumpingZombie: [ini  link ke kode program](../../src/11_ID_GUI/Tugas/JumpingZombie1941723014Dhuta.java)<br>
-link Tester: [ini  link ke kode program](../../src/11_ID_GUI/Tugas/Tester51941723014Dhuta.java)
+link PercobaanGUI: [ini  link ke kode program](../../src/11_ID_GUI/percobaan5/PercobaanGUI1941723014Dhuta.java)
+
+## Assigment
+
+Hasil Kalkulator
+
+![screenshot Kalkulator](img/Asiggement/HasilKalkulator.PNG)
+
+link Kalkulator: [ini  link ke kode program](../../src/11_ID_GUI/Assigment/Calculate1941723014Dhuta.java)
 
 ## Kesimpulan
 
