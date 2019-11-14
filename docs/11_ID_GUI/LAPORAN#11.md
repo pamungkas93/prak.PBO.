@@ -43,8 +43,6 @@ MyInputForm
 
 ![screenshot soal2](img/soalno2/soal2.PNG)
 
-![screenshot soal2](img/soalno2/srcsoal2.PNG)
-
 ## Pertanyaan
 
 	Modifikasi kode program dengan menambahkan JButton baru untuk melakukan fungsi perhitungan penambahan, sehingga ketika button di klik (event click) maka akan menampilkan hasil penambahan dari nilai A dan B.
