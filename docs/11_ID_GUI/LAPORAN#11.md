@@ -68,10 +68,12 @@ GridLayoutDemo
 
 	a. Apa perbedaan dari Grid Layout, Box Layout dan Border Layout? 
 	Jawab:
+	Perbedaanya terdapat pada hasil layout. Border layout membuat box menyesuaikan border, grid layout membuat tiap - tiap box sama persis dan memenuhi frame, box layout membuat box biasa tanpa terpengaruh panjang frame
 
 	b. Apakah fungsi dari masing-masing kode berikut? 
 ![screenshot soalb](img/soalno3/soal3b.PNG)
 	Jawab:
+	Fungsinya ialah mendeklarasikan objek frame sesuai class yang dibuat
 
 link Border: [ini  link ke kode program](../../src/11_ID_GUI/percobaan3/Border1941723014Dhuta.java)<br>
 link Box: [ini  link ke kode program](../../src/11_ID_GUI/Box1941723014Dhuta.java)<br>
@@ -89,12 +91,15 @@ Tampil
 	a. Apakah fungsi dari masing-masing kode berikut? 
 ![screenshot soal4](img/soalno4/soal.PNG)
 	Jawab:
+	Fungsi kode program diatas ialah menampilkan sebuah form baru, pada pada form tersebut akan muncul sebuah message box ketika button tampil diklik
 
-	b. Mengapa pada bagian logika checkbox dan radio button digunakan multiple if ?
+	b. Mengapa pada bagian logika checkbox dan radio button digunakan multiple if?
 	Jawab:
+	Karena pilihan yang tersedia tidak hanya satu untuk matakuliah
 
 	c. Lakukan modifikasi pada program untuk melakukan menambahkan inputan berupa alamat dan berikan fungsi pemeriksaan pada nilai Alamat tersebut jika belum diisi dengan menampilkan pesan peringatan.
 	Jawab: 
+![screenshot Jawaban B](img/soalno4/jawabanC.PNG)
 
 link Swing form: [ini  link ke kode program](../../src/11_ID_GUI/perconbaan4/Swing1941723014Dhuta.form)<br>
 link Swing java: [ini  link ke kode program](../../src/11_ID_GUI/Swing1941723014Dhuta.java)<br>
@@ -114,9 +119,11 @@ PercobaanGUI
 
 	a. Apa kegunaan komponen swing JTabPane, JTtree, pada percobaan 5?
 	Jawab:
+	Kegunaan komponen TabPane pada swing untuk membuat tab pada Frame atau GUI. Kegunaan komponen swing Tree pada GUI untuk membuat sebuah menu kategori atau folder yang memiliki subfolder
 
 	b. Apa kegunaan komponen swing JTabPane, JTtree, pada percobaan 5?
 	Jawab:
+
 
 link PercobaanGUI: [ini  link ke kode program](../../src/11_ID_GUI/percobaan5/PercobaanGUI1941723014Dhuta.java)
 
@@ -129,6 +136,8 @@ Hasil Kalkulator
 link Kalkulator: [ini  link ke kode program](../../src/11_ID_GUI/Assigment/Calculate1941723014Dhuta.java)
 
 ## Kesimpulan
+
+GUI membuat tampilan pada java agar lebih bagus dan bisa digunakan dengan mudah
 
 ## Pernyataan Diri
 
