@@ -47,6 +47,7 @@ MyInputForm
 
 	Modifikasi kode program dengan menambahkan JButton baru untuk melakukan fungsi perhitungan penambahan, sehingga ketika button di klik (event click) maka akan menampilkan hasil penambahan dari nilai A dan B.
 	Jawab:
+![screenshot soal2](img/soalno2/pertanyaan2.PNG)
 
 link MyInputForm: [ini  link ke kode program](../../src/11_ID_GUI/percobaan2/MyInputForm1941723014.java)
 
@@ -109,11 +110,7 @@ link Swing2: [ini  link ke kode program](../../src/11_ID_GUI/Swing21941723014Dhu
 
 Hasil Form PercobaanGUI
 
-![screenshot Form](img/soalno5/HasilSoal5.PNG)
-
-PercobaanGUI
-
-![screenshot PercobaanGUI](img/soalno5/HasilsrcNo5.PNG)
+![screenshot Form](img/soalno5/soal5.PNG)
 
 ## Pertanyaan
 
@@ -124,8 +121,11 @@ PercobaanGUI
 	b. Apa kegunaan komponen swing JTabPane, JTtree, pada percobaan 5?
 	Jawab:
 
+![screenshot pertanyaanA](img/soalno5/pertanyaanA.PNG)
 
-link PercobaanGUI: [ini  link ke kode program](../../src/11_ID_GUI/percobaan5/PercobaanGUI1941723014Dhuta.java)
+![screenshot pertanyaanB](img/soalno5/pertanyaanB.PNG)
+
+link PercobaanGUI: [ini  link ke kode program](../../src/11_ID_GUI/percobaan5/Swing1941723014Dhuta.java)
 
 ## Assigment
 
