@@ -56,13 +56,13 @@ BorderLayoutDemo
 
 ![screenshot Border](img/soalno3/1.PNG)
 
-BoxLayoutDemo
-
-![screenshot Box](img/soalno3/1.PNG)
-
 GridLayoutDemo
 
-![screenshot Grid](img/soalno3/1.PNG)
+![screenshot Grid](img/soalno3/3.PNG)
+
+BoxLayoutDemo
+
+![screenshot Box](img/soalno3/2.PNG)
 
 ## Pertanyaan
 
