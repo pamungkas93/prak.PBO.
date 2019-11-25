@@ -57,7 +57,7 @@ JDBC API merupakan Java Database Connectivity Application Programming Interface 
 
 CobaHashSet
 
-![screenshot HashSet](img/soalno1/1HasilHelloGui.PNG)
+![screenshot HashSet](img/CobaHashSet.PNG)
 
 ## Pertanyaan
 
@@ -68,45 +68,49 @@ CobaHashSet
 	Jawab:
 
 	3. Apakah fungsi potongan program dibawah ini pada percobaan 1!
-SS
+![screenshot HashSet](img/soal1/3.PNG)<br>
+
 	Jawab:
 
 	4. Tambahkan set.add(“Malang”); kemudian jalankan program! Amati hasilnya dan jelaskan mengapa terjadi error!
 	Jawab:
 
 	5. Jelaskan fungsi potongan program dibawah ini pada percobaan 1!
-SS
+![screenshot HashSet](img/soal1/5.PNG)<br>
+
 	Jawab:
 
-link CobaHashSet: [ini  link ke kode program](../../src/11_ID_GUI/percobaan2/MyInputForm1941723014.java)
+link CobaHashSet: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/CobaHashSet.java)
 
 ### Percobaan 2 List 
 
 CobaArrayList
 
-![screenshot ArrayList](img/soalno2/soal2.PNG)
+![screenshot ArrayList](img/CobaArrayList.PNG)
 
 ## Pertanyaan
 
 	1. Apakah fungsi potongan program dibawah ini! 
-SS
+![screenshot HashSet](img/soal2/1.PNG)<br>
+
 	Jawab:
 
 	2. Ganti potongan program pada soal no 1 menjadi sebagai berikut 
-SS
+![screenshot HashSet](img/soal2/2.PNG)<br>
+
 	Kemudian jalankan program tersebut! 
 	Jawab:
 
 	3. Jelaskan perbedaan menampilkan data pada ArrayList menggunakan potongan program pada soal no 1 dan no 2! 
 	Jawab:
 
-link CobaArrayList: [ini  link ke kode program](../../src/11_ID_GUI/percobaan2/MyInputForm1941723014.java)
+link CobaArrayList: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/CobaArrayList.java)
 
 ### Percobaan 3 Map
 
 DemoHashMap
 
-![screenshot DemoHashMap](img/soalno3/1.PNG)
+![screenshot DemoHashMap](img/DemoHashMap.PNG)
 
 ## Pertanyaan
 
@@ -123,7 +127,8 @@ DemoHashMap
 	Jawab:
 
 	5. Tambahkan kode program yang di blok pada program yang sudah anda buat! 
-SS
+![screenshot HashSet](img/soal3/5.PNG)<br>
+
 	Jawab:
 
 	6. Jalankan program dan amati apa yang terjadi! 
@@ -132,11 +137,19 @@ SS
 	7. Apakah perbedaan program sebelumnya dan setelah ditambahkan kode program pada soal no 5 diatas? Jelaskan!
 	Jawab:
 
-link DemoHashMap: [ini  link ke kode program](../../src/11_ID_GUI/percobaan3/Border1941723014Dhuta.java)
+link DemoHashMap: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/DemoHashMap.java)
 
 ### Percobaan 4 Implementasi ArrayList dalam GUI
 
-Tampil
+Mahasiswa
+
+![screenshot Mahasiswa](img/soalno4/Tampil.PNG)
+
+link Mahasiswa: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/perconbaan4/Swing1941723014Dhuta.form)
+
+### Percobaan 5 Aplikasi Biodata
+
+Biodata
 
 ![screenshot Tampil](img/soalno4/Tampil.PNG)
 
@@ -148,6 +161,8 @@ Tampil
 	Jawab:
 
 	7. Buat Table model yang digunakan untuk memanipulasi tampilan pada Jtable, seperti pada code dibawah ini: 
+![screenshot Tampil](img/soal5/7.PNG)<br>
+
 	Jawab:
 
 	9. Jelaskan alur dari method ambil_data_tabel? 
@@ -156,7 +171,7 @@ Tampil
 	10. Buat fungsi untuk merefresh sehingga data yang baru dapat ditampilkan pada tabel. 
 	Jawab:
 
-link Swing form: [ini  link ke kode program](../../src/11_ID_GUI/perconbaan4/Swing1941723014Dhuta.form)
+link Biodata: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/perconbaan4/Swing1941723014Dhuta.form)
 
 ## Kesimpulan
 
