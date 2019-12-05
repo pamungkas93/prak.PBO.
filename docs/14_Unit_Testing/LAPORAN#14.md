@@ -1,6 +1,6 @@
-# Laporan #13 - Pengantar Konsep PBO
+# Laporan #14 - Pengantar Konsep PBO
 
-# ID, GUI, dan Database
+# Unit Testing
 
 ## Kompetensi
 
@@ -10,123 +10,53 @@
 	3. Membuat form sebagai frontend
   
 
-## Ringkasan Materi
+## Kompetensi
 
-### Pendahuluan
-
-Kali ini kita akan menggunakan paradigma berorientasi objek yang telah kita pelajari untuk membuat aplikasi berbasis database dan dilengkapi dengan form sebagai Graphical User Interface (GUI).
-
-Secara umum, tahapan yang akan kita lakukan adalah sebagai berikut: 
-
-1. Membuat database dan tabel-tabelnya. 
-2. Membuat backend yang berisi class-class yang mewakili data yang ada pada database, dan class helper untuk melakukan eksekusi query database. 
-3. Membuat frontend yang merupakan antarmuka kepada pengguna. Frontend ini bisa berbasis teks (console), GUI, web, mobile, dan sebagainya.  
-
-Library yang digunakan untuk project ini antara lain:
-
-1. JDBC, untuk melakukan interaksi ke database. 
-2. ArrayList, untuk menampung data hasil query ke database. 
-3. Swing, untuk membuat tampilan GUI. 
-
-Untuk percobaan, kita akan membuat sistem informasi Perpustakaan, yang memiliki data antara lain: Buku, Kategori, Anggota dan Peminjaman. Fitur yang ada pada aplikasi ini adalah anggota dapat melakukan peminjaman dan pengembalian buku. 
+Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu: 
+1. Memahami konsep dan fungsi unit testing 
+2. Menerapkan unit testing dengan JUnit pada program sederhana. 
+3. Menerapkan unit testing dengan JUnit pada progam yang terkoneksi database 
 
 ### Praktikum
 
-### Percobaan 1 (Database) 
+### Percobaan 1 (Dasar Unit Testing) 
 
-DB perpus
+MessageProcessor
 
-![screenshot HashSet](img/percobaan1.PNG)
+![screenshot MessageProcessor](img/percobaan1.PNG)
 
-### Percobaan 2
+LearnUnitTesting
 
-Perpustakaan
+![screenshot LearnUnitTesting](img/percobaan1.PNG)
+
+MessageProcessorTest
+
+![screenshot MessageProcessorTest](img/percobaan1.PNG)
+
+### Percobaan 2 (Testing dengan Test Case)
+
+GUI
 
 ![screenshot Perpustakaan](img/CobaArrayList.PNG)
 
-Frontend dan Backend
+KategoryTest
 
-![screenshot FrontendBackend](img/CobaArrayList.PNG)
+![screenshot KategoryTest](img/CobaArrayList.PNG)
 
-link Perpustakaan: [ini  link ke kode program](../../src/13_ID_GUI_Database/DemoHashMap.java)
+ArrayList
 
-### Percobaan 3 
+![screenshot ArrayList](img/CobaArrayList.PNG)
 
-DBHelper
+TestRunner
 
-![screenshot DBHelper](img/DemoHashMap.PNG)
+![screenshot TestRunner](img/CobaArrayList.PNG)
 
-link DBHelper: [ini  link ke kode program](../../src/13_ID_GUI_Database/DemoHashMap.java)
-
-### Percobaan 4
-
-Kategori
-
-![screenshot Kategori](img/Tampil.PNG)
-
-link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-### Percobaan 5
-
-TestBackend
-
-![screenshot TestBackend](img/Tampil.PNG)
-
-link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-### Percobaan 6
-
-Class Kategori untuk GUI
-
-![screenshot Kategori](img/Tampil.PNG)
-
-link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-Anggota
-
-![screenshot Anggota](img/Tampil.PNG)
-
-link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-### Percobaan 7
-
-Form Anggota
-
-![screenshot FormAnggota](img/Tampil.PNG)
-
-link Form Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-Buku
-
-![screenshot Buku](img/Tampil.PNG)
-
-link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-### Percobaan 8
-
-Tampilan JFrame Form Buku
-
-![screenshot FormBuku](img/Tampil.PNG)
-
-Kosongkan Form
-
-link Kosongkan Form: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link KategoryTest: [ini  link ke kode program](../../src/14_Unit_Testing/DemoHashMap.java)<br>
+link ArrayList: [ini  link ke kode program](../../src/14_Unit_Testing/DemoHashMap.java)<br>
+link TestRunner: [ini  link ke kode program](../../src/14_Unit_Testing/DemoHashMap.java)
 
 ### Tugas
 
-Class Peminjaman
-
-![screenshot FormBuku](img/Tampil.PNG)
-
-link Peminjaman: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-Buku
-
-link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-Test Backend
-
-link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
 ## Kesimpulan
 
