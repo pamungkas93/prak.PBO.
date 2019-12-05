@@ -63,22 +63,28 @@ CobaHashSet
 
 	1. Apakah Fungsi import java.until.*; pada program diatas!
 	Jawab:
+	Mengimport seluruh library util
 
 	2. Pada baris program keberapakah yang berfungsi untuk menciptakan object HashSet? 
 	Jawab:
+
+	Set mSetCity = new HasSet();
 
 	3. Apakah fungsi potongan program dibawah ini pada percobaan 1!
 ![screenshot HashSet](img/soal1/3.PNG)<br>
 
 	Jawab:
+	Untuk menambahkan data array pada objek mSetCity
 
 	4. Tambahkan set.add(“Malang”); kemudian jalankan program! Amati hasilnya dan jelaskan mengapa terjadi error!
 	Jawab:
+	Terjadi error karena objek set tidak dibuat sehingga tidak dapat menambahkan data array
 
 	5. Jelaskan fungsi potongan program dibawah ini pada percobaan 1!
 ![screenshot HashSet](img/soal1/5.PNG)<br>
 
 	Jawab:
+	Fungsi dari potongan program diatas ialah untuk l=melakukan perulangan saat menampilkan data array, kemudian saat data ditampilkan semua karakter akan disetting menjadi lowercase
 
 link CobaHashSet: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/CobaHashSet.java)
 
@@ -94,6 +100,9 @@ CobaArrayList
 ![screenshot HashSet](img/soal2/1.PNG)<br>
 
 	Jawab:
+	1. berfungsi untuk menampilkan semua data array
+	2. berfungsi untuk menampilkan data ke 1 dengan mengambil data array ke 0
+	3. berfungsi untuk menampilkan data ke 3 dengan mengambil data array ke 2
 
 	2. Ganti potongan program pada soal no 1 menjadi sebagai berikut 
 ![screenshot HashSet](img/soal2/2.PNG)<br>
@@ -101,8 +110,10 @@ CobaArrayList
 	Kemudian jalankan program tersebut! 
 	Jawab:
 
+
 	3. Jelaskan perbedaan menampilkan data pada ArrayList menggunakan potongan program pada soal no 1 dan no 2! 
 	Jawab:
+	Pada soal 1 dipanggil data array secara spesifik, sedangkan pada soal no 2 dilakukan perulangan pemanggilan data pada objek arraylist
 
 link CobaArrayList: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/CobaArrayList.java)
 
@@ -116,23 +127,29 @@ DemoHashMap
 
 	1. Jelaskan fungsi hMapItem.put("1","Biskuit") pada program! 
 	Jawab:
+	Pada HashMap membutuhkan key dan value untuk mengisi nilai item, sehingga pada key 1 terdapat value berupa "Biskuit"
 
 	2. Jelaskan fungsi hMapItem.size() pada program! 
 	Jawab:
+	Fungsi tersebut untuk menampilkan jumlah item yang terdapat pada objek hMapItem
 
 	3. Jelaskan fungsi hMapItem.remove("1") pada program! 
 	Jawab:
+	Fungsi tersebut berguna untuk menghapus item dengan key 1 yang ada pada objek
 
 	4. Jelaskan fungsi hMapItem.clear() pada program! 
 	Jawab:
+	Fungsi tersebut berguna untuk menghapus ssemua item yang berada pada objek sehingga setelah digunakan fungsi hMapItem.size() maka hasilnya akan kosong
 
 	5. Tambahkan kode program yang di blok pada program yang sudah anda buat! 
 ![screenshot HashSet](img/soal3/5.PNG)<br>
 
 	Jawab:
 
+
 	6. Jalankan program dan amati apa yang terjadi! 
 	Jawab:
+	Perbedaannya terdapat pada denampahan hasil output berupa item yang terdapat pada objek dipanggil satu per satu untuk ditampilkan
 
 	7. Apakah perbedaan program sebelumnya dan setelah ditambahkan kode program pada soal no 5 diatas? Jelaskan!
 	Jawab:
@@ -174,6 +191,7 @@ Biodata
 link Biodata: [ini  link ke kode program](../../src/12_JavaAPI_DataBase/perconbaan4/Swing1941723014Dhuta.form)
 
 ## Kesimpulan
+Kesimpulannya adalah kita dapat membuat objek menggunakan Collection. Dalam colection terdapat beberapa cara dalam pembuatan objek dimana masing - masing cara tersebut memiliki karakteristik tersendiri.
 
 ## Pernyataan Diri
 
