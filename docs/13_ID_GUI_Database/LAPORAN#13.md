@@ -38,13 +38,13 @@ DB perpus
 
 ![screenshot HashSet](img/percobaan1.PNG)
 
+link Database sql: [ini  link ke kode program](../../src/13_ID_GUI_Database/dbperpus.sql)
+
 ### Percobaan 2
 
 Perpustakaan
 
 ![screenshot Perpustakaan](img/Percobaan2.PNG)
-
-link Perpustakaan: [ini  link ke kode program](../../src/13_ID_GUI_Database/DemoHashMap.java)
 
 ### Percobaan 3 
 
@@ -52,7 +52,7 @@ DBHelper
 
 ![screenshot DBHelper](img/Percobaan3.PNG)
 
-link DBHelper: [ini  link ke kode program](../../src/13_ID_GUI_Database/DemoHashMap.java)
+link DBHelper: [ini  link ke kode program](../../src/13_ID_GUI_Database/backend/DBHelper1921743014Dhuta.java)
 
 ### Percobaan 4
 
@@ -60,7 +60,7 @@ Kategori
 
 ![screenshot Kategori](img/Percobaan4.PNG)
 
-link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/backend/Kategori1921743014Dhuta.form)
 
 ### Percobaan 5
 
@@ -68,7 +68,7 @@ TestBackend
 
 ![screenshot TestBackend](img/Percobaan5.PNG)
 
-link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/TestBackend1921743014Dhuta.java)
 
 ### Percobaan 6
 
@@ -76,7 +76,7 @@ Class Kategori untuk GUI
 
 ![screenshot Kategori](img/Percobaan6.1.PNG)
 
-link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmKategori1921743014Dhuta.java)
 
 Anggota
 
@@ -86,8 +86,7 @@ Anggota
 
 ![screenshot Anggota](img/Percobaan6.3.PNG)
 
-link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)<br>
-link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmAnggota1921743014Dhuta.java)
 
 ### Percobaan 7
 
@@ -95,13 +94,13 @@ Form Anggota
 
 ![screenshot FormAnggota](img/Percobaan7.PNG)
 
-link Form Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link Form Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmAnggota1921743014Dhuta.java)
 
 Buku
 
 ![screenshot Buku](img/Percobaan6.2.PNG)
 
-link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmBuku1921743014Dhuta.java)
 
 ### Percobaan 8
 
@@ -115,13 +114,17 @@ Peminjaman
 
 ![screenshot Peminjaman](img/Tugas.PNG)
 
-link Peminjaman: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+link Peminjaman: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmPeminjaman1921743014Dhuta.java)
 
 ### Lampiran
 
 Buku
 
 ![screenshot Buku](img/Lampiran.PNG)
+
+link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmBuku1921743014Dhuta.java)
+
+### Kumpulan Lengkap src Jobsheet 13 GUI DataBase
 
 ## Kesimpulan
 
