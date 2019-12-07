@@ -44,13 +44,13 @@ link Database sql: [ini  link ke kode program](../../src/13_ID_GUI_Database/dbpe
 
 Perpustakaan
 
-![screenshot Perpustakaan](img/Percobaan2.png)
+![screenshot](img/percobaan2.PNG)
 
 ### Percobaan 3 
 
 DBHelper
 
-![screenshot DBHelper](img/Percobaan3.PNG)
+![screenshot DBHelper](img/percobaan3.PNG)
 
 link DBHelper: [ini  link ke kode program](../../src/13_ID_GUI_Database/backend/DBHelper1921743014Dhuta.java)
 
@@ -58,7 +58,7 @@ link DBHelper: [ini  link ke kode program](../../src/13_ID_GUI_Database/backend/
 
 Kategori
 
-![screenshot Kategori](img/Percobaan4.PNG)
+![screenshot Kategori](img/percobaan4.PNG)
 
 link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/backend/Kategori1921743014Dhuta.form)
 
@@ -66,7 +66,7 @@ link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/backend/
 
 TestBackend
 
-![screenshot TestBackend](img/Percobaan5.PNG)
+![screenshot TestBackend](img/percobaan5.PNG)
 
 link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/TestBackend1921743014Dhuta.java)
 
@@ -74,7 +74,7 @@ link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/fron
 
 Class Kategori untuk GUI
 
-![screenshot Kategori](img/Percobaan6.1.PNG)
+![screenshot Kategori](img/percobaan6.1.PNG)
 
 link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmKategori1921743014Dhuta.java)
 
@@ -82,9 +82,9 @@ Anggota
 
 ![screenshot Anggota](img/anggotajava.PNG)
 
-![screenshot Anggota](img/Percobaan6.PNG)
+![screenshot Anggota](img/percobaan6.PNG)
 
-![screenshot Anggota](img/Percobaan6.3.PNG)
+![screenshot Anggota](img/percobaan6.3.PNG)
 
 link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmAnggota1921743014Dhuta.java)
 
@@ -92,13 +92,13 @@ link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/
 
 Form Anggota
 
-![screenshot FormAnggota](img/Percobaan7.PNG)
+![screenshot FormAnggota](img/percobaan7.PNG)
 
 link Form Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmAnggota1921743014Dhuta.java)
 
 Buku
 
-![screenshot Buku](img/Percobaan6.2.PNG)
+![screenshot Buku](img/percobaan6.2.PNG)
 
 link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/FrmBuku1921743014Dhuta.java)
 
@@ -106,7 +106,7 @@ link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/frontend/Frm
 
 Tampilan JFrame Form Buku
 
-![screenshot JFrameBuku](img/Percobaan8.PNG)
+![screenshot JFrameBuku](img/percobaan8.PNG)
 
 ### Tugas
 
