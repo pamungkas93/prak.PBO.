@@ -44,7 +44,7 @@ link Database sql: [ini  link ke kode program](../../src/13_ID_GUI_Database/dbpe
 
 Perpustakaan
 
-![screenshot Perpustakaan](img/Percobaan2.PNG)
+![screenshot Perpustakaan](img/Percobaan2.png)
 
 ### Percobaan 3 
 
