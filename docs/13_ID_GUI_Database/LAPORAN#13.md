@@ -42,11 +42,7 @@ DB perpus
 
 Perpustakaan
 
-![screenshot Perpustakaan](img/CobaArrayList.PNG)
-
-Frontend dan Backend
-
-![screenshot FrontendBackend](img/CobaArrayList.PNG)
+![screenshot Perpustakaan](img/Percobaan2.PNG)
 
 link Perpustakaan: [ini  link ke kode program](../../src/13_ID_GUI_Database/DemoHashMap.java)
 
@@ -54,7 +50,7 @@ link Perpustakaan: [ini  link ke kode program](../../src/13_ID_GUI_Database/Demo
 
 DBHelper
 
-![screenshot DBHelper](img/DemoHashMap.PNG)
+![screenshot DBHelper](img/Percobaan3.PNG)
 
 link DBHelper: [ini  link ke kode program](../../src/13_ID_GUI_Database/DemoHashMap.java)
 
@@ -62,7 +58,7 @@ link DBHelper: [ini  link ke kode program](../../src/13_ID_GUI_Database/DemoHash
 
 Kategori
 
-![screenshot Kategori](img/Tampil.PNG)
+![screenshot Kategori](img/Percobaan4.PNG)
 
 link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
@@ -70,7 +66,7 @@ link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconba
 
 TestBackend
 
-![screenshot TestBackend](img/Tampil.PNG)
+![screenshot TestBackend](img/Percobaan5.PNG)
 
 link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
@@ -78,27 +74,32 @@ link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/perc
 
 Class Kategori untuk GUI
 
-![screenshot Kategori](img/Tampil.PNG)
+![screenshot Kategori](img/Percobaan6.1.PNG)
 
 link Kategori: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
 Anggota
 
-![screenshot Anggota](img/Tampil.PNG)
+![screenshot Anggota](img/anggotajava.PNG)
 
+![screenshot Anggota](img/Percobaan6.PNG)
+
+![screenshot Anggota](img/Percobaan6.3.PNG)
+
+link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)<br>
 link Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
 ### Percobaan 7
 
 Form Anggota
 
-![screenshot FormAnggota](img/Tampil.PNG)
+![screenshot FormAnggota](img/Percobaan7.PNG)
 
 link Form Anggota: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
 Buku
 
-![screenshot Buku](img/Tampil.PNG)
+![screenshot Buku](img/Percobaan6.2.PNG)
 
 link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
@@ -106,29 +107,25 @@ link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/
 
 Tampilan JFrame Form Buku
 
-![screenshot FormBuku](img/Tampil.PNG)
-
-Kosongkan Form
-
-link Kosongkan Form: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+![screenshot JFrameBuku](img/Percobaan8.PNG)
 
 ### Tugas
 
-Class Peminjaman
+Peminjaman
 
-![screenshot FormBuku](img/Tampil.PNG)
+![screenshot Peminjaman](img/Tugas.PNG)
 
 link Peminjaman: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
 
+### Lampiran
+
 Buku
 
-link Buku: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
-
-Test Backend
-
-link Test Backend: [ini  link ke kode program](../../src/13_ID_GUI_Database/perconbaan4/Swing1941723014Dhuta.form)
+![screenshot Buku](img/Lampiran.PNG)
 
 ## Kesimpulan
+
+Kesimpulan pada jobsheet kali ini adalah kita dapat memasukkan data yang telah kita buat databasenya. Cara menghapus, edit, dan tambahkan data pada form yang telah dibuat.
 
 ## Pernyataan Diri
 
